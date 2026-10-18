@@ -1,6 +1,5 @@
 numpy
 pandas
 scipy
-statsmodels
 arch
 matplotlib
