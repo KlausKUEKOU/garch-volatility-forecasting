@@ -1,0 +1,12 @@
+,value
+Observations,5030.0000
+Mean (% per day),0.0142
+Std (% per day),1.2038
+Annualised vol (%),19.1104
+Skewness,-0.2046
+Excess kurtosis,8.1692
+Jarque-Bera p-value,0.0000
+Min (%),-9.4695
+Max (%),10.9572
+"Ljung-Box(10) p, returns",0.0000
+"Ljung-Box(10) p, squared returns",0.0000
